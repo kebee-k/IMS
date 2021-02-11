@@ -48,10 +48,12 @@
 									</div>
 								</div>
 							</div>
+							<!--------------------------------------------------------->
 							<div class="hr-line-dashed"></div>
 							<div class="form-group  row"><label class="col-sm-3 col-form-label">Issue Sub-category</label>
 								<div class="col-sm-7"><input type="text" class="form-control" name="txtissuedetails"></div>
 							</div>
+							<!--------------------------------------------------------->
 							<div><hr /></div>
 							<div class="form-group row">
 								<div class="col-sm-4 col-sm-offset-2">
