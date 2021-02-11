@@ -1,0 +1,6 @@
+RewriteEngine on  
+RewriteRule ^([^/.]+)/?$ $1.php
+
+RewriteBase /
+RewriteCond %{REQUEST_URI}  ^/([^/]+)$
+RewriteRule .*  http://localhost/imS_v1/production/staff/%1 [L]
